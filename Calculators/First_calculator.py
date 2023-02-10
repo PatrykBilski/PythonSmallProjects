@@ -1,4 +1,4 @@
-#Thi
+#The following file enable user to perform simple mathematical calculations using 2 variables via the terminal.
 
 def addition(a, b):
     return a + b
